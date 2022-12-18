@@ -1,4 +1,4 @@
-#Jenkin CI/CD
+# Jenkin CI/CD
 
 In this project, I used Jenkins as a continuous integration and deployment tool. I set up Jenkins on a docker and configured it to run builds automatically whenever new code was pushed to a repository.
 
